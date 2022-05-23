@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yaboidimsum
+- 👋 Hi, I’m Dimas 
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Scientific Computing with Python
 - 💞️ I’m looking to collaborate on small projects
