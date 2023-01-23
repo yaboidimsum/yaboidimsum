@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Awan 
-- 👀 I’m interested in Data Machine Learning
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Scientific Computing with Python
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me, you can reach me on instagram @dimasprihady
