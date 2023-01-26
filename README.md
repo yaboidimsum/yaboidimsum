@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Awan</h1>
+<h1 align="center">Greetings Traveller! 👋, I'm Awan</h1>
 <h3 align="center">UI/UX Designer and Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaboidimsum&label=Profile%20views&color=0e75b6&style=flat" alt="yaboidimsum" /> </p>
