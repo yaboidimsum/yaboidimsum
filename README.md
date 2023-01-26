@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/cloudimss" target="blank"><img src="https://img.shields.io/twitter/follow/cloudimss?logo=twitter&style=for-the-badge" alt="cloudimss" /></a> </p>
 
-- 🔭 I’m currently working on **Mini Projects**
+- 🔭 I’m currently working on **100 Days of Code and Project**
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Figma, Python**
+- 💬 Ask me about **Figma and Python**
 
 - 📫 How to reach me **dprihadisetiawan@gmail.com**
 
