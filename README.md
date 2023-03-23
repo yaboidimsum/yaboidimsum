@@ -1,13 +1,13 @@
-<h1 align="center">Greetings Traveller! 👋, I'm Dimas Prihady Setyawan</h1>
+<h1 align="center">Greetings Traveller! 👋, I'm Awan/h1>
 <h3 align="center">UI/UX Designer and Machine Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaboidimsum&label=Profile%20views&color=0e75b6&style=flat" alt="yaboidimsum" /> </p>
 
 <p align="left"> <a href="https://twitter.com/cloudimss" target="blank"><img src="https://img.shields.io/twitter/follow/cloudimss?logo=twitter&style=for-the-badge" alt="cloudimss" /></a> </p>
 
-- 🔭 I’m currently working on **100 Days of Code and Project**
+- 🔭 I’m currently working on **Web Development Course**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Bootstrap 5**
 
 - 💬 Ask me about **Figma and Python**
 
