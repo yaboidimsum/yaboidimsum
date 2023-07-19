@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web Development Course**
 
-- 🌱 I’m currently learning **Bootstrap 5**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Figma and Python**
 
