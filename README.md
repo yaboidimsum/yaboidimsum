@@ -27,6 +27,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaboidimsum&layout=compact&theme=dark" alt="yaboidimsum" /></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaboidimsum&theme=dark&langs_count=8)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yaboidimsum&theme=dark" alt="yaboidimsum" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaboidimsum&theme=dark" alt="yaboidimsum" /></p>
