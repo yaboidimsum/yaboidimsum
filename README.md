@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/cloudimss" target="blank"><img src="https://img.shields.io/twitter/follow/cloudimss?logo=twitter&style=for-the-badge" alt="cloudimss" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development Course**
+- 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **Figma and Python**
+- 💬 Ask me about **UI and Web Design**
 
 - 📫 How to reach me **dprihadisetiawan@gmail.com**
 
