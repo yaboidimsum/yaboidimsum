@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaboidimsum&hide=llvm&layout=compact&theme=dark&langs_count=15" alt="yaboidimsum" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaboidimsum&theme=dark" height="240" alt="yaboidimsum" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaboidimsum&theme=dark" alt="yaboidimsum" /></p>
 
 
 
